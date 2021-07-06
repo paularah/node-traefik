@@ -1,0 +1,23 @@
+{
+  "name": "node-traefik",
+  "version": "1.0.0",
+  "description": "sourcecode  for my blog post on deploying  Node.js servers with Docker and Traefik",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paularah/Node-traefik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paularah/Node-traefik/issues"
+  },
+  "homepage": "https://github.com/paularah/Node-traefik#readme",
+  "dependencies": {
+    "fastify": "^3.18.1"
+  }
+}
